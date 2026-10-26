@@ -30,7 +30,7 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 
 ## Discord
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/DISCORD_ID?theme=dark&borderRadius=12px)](https://discord.com/users/DISCORD_ID)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/1262896637601120260?theme=dark&borderRadius=12px)](https://discord.com/users/DISCORD_ID)
 
 ## My stats:
 
