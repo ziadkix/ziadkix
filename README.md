@@ -1,6 +1,6 @@
-<table>
-<tr>
-<td valign="middle">
+<br><br><br>
+
+<img align="right" width="280" src="banner2.png" alt="banner 2">
 
 ## Hi, I'm Ziad AKA Kix!
 
@@ -30,18 +30,9 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-</td>
-<td valign="middle" align="center" width="280">
+<br clear="right">
 
-<img src="banner2.png" width="260" alt="banner 2">
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="middle">
+<img align="right" width="280" src="banner.png" alt="banner">
 
 ## Discord
 
@@ -53,14 +44,7 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 
 ![Profile views](https://komarev.com/ghpvc/?username=ziadkix&label=Profile%20views&color=0e75b6&style=flat)
 
-</td>
-<td valign="middle" align="center" width="280">
-
-<img src="banner.png" width="260" alt="banner">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ## Commits
 
