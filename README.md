@@ -1,4 +1,4 @@
-<img align="right" width="260" src="banner2.png" alt="banner 2">
+<img align="right" width="300" src="banner2.png" alt="banner 2">
 
 ## Hi, I'm Ziad 👋
 
