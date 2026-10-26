@@ -1,4 +1,6 @@
-<img align="right" width="280" src="banner2.png" alt="banner 2">
+<table>
+<tr>
+<td valign="middle">
 
 ## Hi, I'm Ziad AKA Kix!
 
@@ -28,15 +30,37 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+</td>
+<td valign="middle" align="center" width="280">
+
+<img src="banner2.png" width="260" alt="banner 2">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="middle">
+
 ## Discord
 
-[![Discord](https://lanyard-profile-readme.vercel.app/api/1262896637601120260?theme=dark&borderRadius=12px)](https://discord.com/users/DISCORD_ID)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/1262896637601120260?theme=dark&borderRadius=12px)](https://discord.com/users/1262896637601120260)
 
 ## My stats:
 
 ![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadkix&show_icons=true&theme=tokyonight&count_private=true&custom_title=Ziad's%20GitHub%20Stats&title_color=f472b6)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ziadkix&label=Profile%20views&color=0e75b6&style=flat)
+
+</td>
+<td valign="middle" align="center" width="280">
+
+<img src="banner.png" width="260" alt="banner">
+
+</td>
+</tr>
+</table>
 
 ## Commits
 
