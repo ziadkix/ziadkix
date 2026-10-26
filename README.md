@@ -1,4 +1,3 @@
-<br><br><br>
 <img align="right" width="280" src="banner2.png" alt="banner 2">
 
 ## Hi, I'm Ziad AKA Kix!
