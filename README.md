@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ziad 👋
 
-<!--
-**ziadkix/ziadkix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little more about me...
 
-Here are some ideas to get you started:
+```js
+const ziad = {
+  pronouns: "he" | "him",
+  code: [JavaScript, HTML, CSS],
+  tools: [React, Node, Git],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I code with
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### My stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ziadkix&show_icons=true&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=ziadkix&label=Profile%20views&color=0e75b6&style=flat)
+
+### Thanks for reading 💖
