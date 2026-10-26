@@ -28,10 +28,6 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br clear="right">
-
-<img align="right" width="260" src="banner.png" alt="banner">
-
 ## Discord
 
 [![Discord](https://lanyard-profile-readme.vercel.app/api/1262896637601120260?theme=dark&borderRadius=12px)](https://discord.com/users/DISCORD_ID)
