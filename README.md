@@ -1,4 +1,5 @@
 <br><br><br>
+<img align="right" width="280" src="banner2.png" alt="banner 2">
 
 ## Hi, I'm Ziad AKA Kix!
 
@@ -29,8 +30,6 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br clear="right">
-
-<img align="right" width="280" src="banner.png" alt="banner">
 
 ## Discord
 
