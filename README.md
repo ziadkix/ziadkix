@@ -1,4 +1,4 @@
-<img align="right" width="260" src="banner.png" alt="banner">
+<img align="right" width="260" src="banner2.png" alt="banner 2">
 
 ## Hi, I'm Ziad 👋
 
@@ -30,7 +30,7 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 
 <br clear="right">
 
-<img align="right" width="260" src="banner2.png" alt="banner 2">
+<img align="right" width="260" src="banner.png" alt="banner">
 
 ## Discord
 
