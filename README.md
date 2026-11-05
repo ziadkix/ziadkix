@@ -32,14 +32,6 @@ I love learning new skills, new languages, new tools, and anything that pushes m
 
 [![Discord](https://lanyard-profile-readme.vercel.app/api/1262896637601120260?theme=dark&borderRadius=12px)](https://discord.com/users/1262896637601120260)
 
-## My stats:
-
-![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadkix&show_icons=true&theme=tokyonight&count_private=true&custom_title=Ziad's%20GitHub%20Stats&title_color=f472b6)
-
-![Profile views](https://komarev.com/ghpvc/?username=ziadkix&label=Profile%20views&color=0e75b6&style=flat)
-
-<br clear="right">
-
 ## Commits
 
 <picture>
