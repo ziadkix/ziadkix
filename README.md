@@ -1,3 +1,5 @@
+# Hi I'm Ziad Aka Kix 😒!
+
 # 💫 About Me:
 - 🔭 I’m currently working on **[PromoCode Discord System](https://github.com/ziadkix/PromoCode-Discord-System)**<br>- 🌱 I’m currently learning **Cybersecurity, backend development and new tools**<br>- 💬 Ask me about **Discord bots, Node.js, JavaScript and backend**<br>- 📫 How to reach me: **[Discord](https://discord.com/users/1262896637601120260)**<br>- ⚡ Fun fact: **I debug my bots at 3 AM and call it a hobby**
 
