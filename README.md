@@ -1,5 +1,3 @@
-﻿﻿# Hi, I'm Ziad (Kix) 👋!
-
 # About Me:
 - 🔭 I’m currently working on **[PromoCode Discord System](https://github.com/ziadkix/PromoCode-Discord-System)**
 - 🌱 I’m currently learning **Cybersecurity, backend development and new tools**
