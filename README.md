@@ -20,12 +20,6 @@
 ![](https://streak-stats.demolab.com/?user=ziadkix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ziadkix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
