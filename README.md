@@ -18,13 +18,15 @@
 ![](https://streak-stats.demolab.com/?user=ziadkix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ziadkix&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ziadkix/ziadkix/output/github-contribution-grid-snake.svg" />
 </picture>
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![Profile views](https://komarev.com/ghpvc/?username=ziadkix&label=Profile%20views&color=5865F2&style=flat)](https://github.com/ziadkix)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
